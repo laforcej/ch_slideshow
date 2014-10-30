@@ -1,0 +1,194 @@
+{
+	"config": {
+		"images_folder": "images"
+	},
+	"section": {
+		"key": "Recommendation_Engine",
+		"label": "Intuit Health Marketplace - Recommendation Engine",
+		"data": {
+			"images_folder": "section",
+			"slides": {
+				"slide0": {
+					"text": [],
+					"images": [
+						{"src": "01_01.png"},
+						{"src": "01_02.png"}
+					]
+				},
+				"slide1": {
+					"text": [
+						"Choosing the right<br/>health coverage <strong>doesn't</strong><br/>have to be a confusing<br/>experience"
+					],
+					"images": [
+						{"src": "02_01.png"},
+						{"src": "02_02.png"},
+						{"src": "02_03.png"},
+						{"src": "02_04.png"},
+						{"src": "02_05.png"},
+						{"src": "02_06.png"},
+						{"src": "02_07.png"},
+						{"src": "02_08.png"},
+						{"src": "02_09.png"},
+						{"src": "02_10.png"},
+						{"src": "02_11.png"},
+						{"src": "02_12.png"},
+						{"src": "02_13.png"},
+						{"src": "02_14.png"},
+						{"src": "02_15.png"},
+						{"src": "02_16.png"}
+					]
+				},
+				"slide2": {
+					"text": [
+						"Smart Choices&trade; Exchange helps you<br/>understand your options, so you can make smarter<br/>decisions for yourself and your family."
+					],
+					"images": [
+						{"src": "03_01.png"}
+					]
+				},
+				"slide3": {
+					"text": [
+						"Recommendations are personalized<br/>for each person based on:",
+						"Age, gender,<br/>and number of<br/>dependents",
+						"Personal<br/>preferences<br/><span class='gray'>(example: do you smoke?)</span>",
+						"How do you like<br/>to balance costs?",
+						"Estimate of your<br/>healthcare use for the<br/>upcoming year"
+					],
+					"images": [
+						{"src": "04_01.png"},
+						{"src": "04_02.png"},
+						{"src": "04_03.png"},
+						{"src": "04_04.png"},
+						{"src": "04_05.png"}						
+					]
+				},
+				"slide4": {
+					"text": [
+						"Next, our award-winning<br/>Recommendations Engine<br/>goes to work for you."
+					],
+					"images": [
+						{"src": "05_01.png"},
+						{"src": "05_02.png"},
+						{"src": "05_03.png"},
+						{"src": "05_04.png"}
+					]
+				},
+				"slide5": {
+					"text": [
+						"With <strong>personalized recommendations</strong>, you'll be able to compare plans not just based on premium costs, but also on how much you're likely to spend under each plan."
+					],
+					"images": [
+						{"src": "webpage_01.png"},
+						{"src": "webpage_02.png"},
+						{"src": "webpage_03.png"},
+						{"src": "webpage_04.png"},
+						{"src": "webpage_05.png"},
+						{"src": "webpage_06.png"},
+						{"src": "webpage_07.png"},
+						{"src": "cursor_pointer.png"},
+						{"src": "06_01.png"}
+					]
+				},
+				"slide6": {
+					"text": [
+						"For example, with<br/>Plan 1, the estimated annual<br/>premium is $1,332 a year, and<br/>your estimated out-of-pocket<br/>cost is $562."
+					],
+					"images": [
+						{"src": "07_01.png"},
+						{"src": "cursor_pointer.png"},
+						{"src": "webpage_bubble_1.png"}
+					]
+				},
+				"slide7": {
+					"text": [
+						"...but with Plan 2, the estimated annual premium is $1,070 a year, and your estimated out-of-pocket<br/>cost is $691."
+					],
+					"images": [
+						{"src": "08_01.png"},
+						{"src": "cursor_pointer.png"},
+						{"src": "webpage_bubble_1.png"}
+					]
+				},
+				"slide8": {
+					"text": [
+						"You'll also see comparisons of your maximum expected costs, which you can think of as a 'worst case scenario' – the most you'd likely pay under each plan."
+					],
+					"images": [
+						{"src": "09_01.png"},
+						{"src": "cursor_pointer.png"},
+						{"src": "webpage_bubble_1.png"}
+					]
+				},
+				"slide9": {
+					"text": [
+						"You can easily focus on certain types of plans by adjusting the filters at the top of the page."
+					],
+					"images": [
+						{"src": "webpage_bubble_1.png"}
+					]
+				},
+				"slide10": {
+					"text": [
+						"You can also sort plan<br/>recommendations based on<br/>what's most meaningful to you."
+					],
+					"images": [
+						{"src": "11_01.png"},
+						{"src": "cursor_pointer.png"},
+						{"src": "webpage_bubble_2.png"}
+					]
+				},
+				"slide11": {
+					"text": [
+						"The Smart Choices<br/>Exchange then allows<br/>you to compare up to<br/>three plans at a time,<br/>side-by-side"
+					],
+					"images": [
+						{"src": "12_01.png"},
+						{"src": "webpage_bubble_1.png"}
+					]
+				},
+				"slide12": {
+					"text": [
+						"When you're ready, just add your selections<br/>to your online shopping cart, and check out.",
+						"It's that easy!"
+					],
+					"images": [
+						{"src": "13_01.png"},
+						{"src": "13_02.png"},
+						{"src": "13_03.png"},
+						{"src": "13_04.png"},
+						{"src": "13_05.png"}
+					]
+				},
+				"slide13": {
+					"text": [
+						"Along the way, we'll assist you with resources<br/>such as our web-based library of articles."
+					],
+					"images": [
+						{"src": "14_01.png"},
+						{"src": "14_02.png"}
+					],
+					"search_box_text": "how does co-insurance work?"
+				},
+				"slide14": {
+					"text": [
+						"With the Smart Choices<br/>Exchange, you'll understand<br/>the total financial risk with<br/>each plan option so you can<br/>make smarter decisions."
+					],
+					"images": [
+						{"src": "15_01.png"},
+						{"src": "15_02.png"},
+						{"src": "15_03.png"},
+						{"src": "15_04.png"},
+						{"src": "15_05.png"}
+					]
+				},
+				"slide15": {
+					"text": [
+						"Life is unpredictable.",
+						"So we want to make your health coverage easy."
+					],
+					"images": []
+				}
+			}
+		}		
+	}
+}
